@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>The Night's Watch</title>
+	<link rel="stylesheet" type="text/css" href="./css/style.css">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+<body>
+	<nav class="navbar navbar-expand-sm navbar-dark bg-dark got-scripture">
+		<div class="container">
+			<a class="navbar-brand" href="#">
+				The Night's Watch
+			</a>
+			<ul class="navbar-nav">
+				<li class="nav-item">
+					<a class="nav-link" href="#part-family">Families</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#part-relation">Relations</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#part-timeline">Timeline</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#part-book">Word Count</a>
+				</li>
+			</ul>
+		</div>
+		</nav>
+		<div class="jumbotron">
+			<div class="container">
+				<h1 class="display-4 got-scripture">Our Watch Begins!</h1>
+				  <p class="lead">Let's explore the astonishing world of <b>"A Song Of Ice And Fire"</b> a.k.a <span class="got-scripture">Game Of Thrones</span>.</p>
+				  <hr class="my-4">
+				  <p>This work was made by :</p>
+				  <ul class="got-scripture">
+				  	<li>Weijia &nbsp;&nbsp;DU</li>
+				  	<li>Amine &nbsp;&nbsp;LEMAIZI</li>
+				  	<li>Pakiradhaan &nbsp;&nbsp;Parameswaran</li>
+				  	<li>Jean-Baptiste &nbsp;&nbsp;SCELLIER</li>
+				  </ul>
+			</div>
+		</div>
+	<div class="container-fluid">
+		<div>
+			<div class="container">
+			<h2 class="got-scripture" id="part-family" style="padding-top: 8px;">Families</h2>
+			<hr>
+			<p class="lead">
+			  In this graph you will discover the family tree of the main Houses in the world of Game of Thrones. For each character displayed, you can see his family ties with his significant other, parents and children. There is the possibility to display the actor IMDB card of the character interpreter. It is important to mention that by clicking on a character card, you are also selecting him on the <a href="#part-relation">"Relations Graph"</a> and vice versa.
+			</p>
+			</div>
+			<div id="menu">
+				<img style="border: 2px" src="./img/family_logos/main_thumb.png"/>
+				<div class="wrap">
+				  <a href="javascript:void()"><div id="tar" onClick="drawTree(this.id, null)"></div></a>
+				  <a href="javascript:void()"><div id="arr" onClick="drawTree(this.id, null)"></div></a>
+				  <a href="javascript:void()"><div id="tul" onClick="drawTree(this.id, null)"></div></a>
+				  <a href="javascript:void()"><div id="sta" onClick="drawTree(this.id, null)"></div></a>
+				  <a href="javascript:void()"><div id="bar" onClick="drawTree(this.id, null)"></div></a>
+				  <a href="javascript:void()"><div id="lan" onClick="drawTree(this.id, null)"></div></a>
+				  <a href="javascript:void()"><div id="tyr" onClick="drawTree(this.id, null)"></div></a>
+				  <a href="javascript:void()"><div id="mar" onClick="drawTree(this.id, null)"></div></a>
+				  <a href="javascript:void()"><div></div></a>
+				</div>
+			</div>
+			<div id="graph_2" style="display: none; "></div>
+		</div>
+	</div>
+	<div class="container">
+		<h2 class="got-scripture" id="part-relation" style="padding-top: 8px;">Relations</h2>
+			<hr>
+			<p class="lead">
+			  This time we will display different relationships between a character (sometimes a wepaon!) and other ones. It goes from a simple family relationship to a more "tragic" relation as who killed who. Select one of the proposed relations, so you can display it and click on a character to highlight its relations with others. By selecting a character the <a href="#part-family">Family graph</a> will highlight its family tree, if it exists. 
+			</p>
+		<div class="row ">
+			<div class="relation-options">
+				<h4>Choose a relation :</h4>
+				<form id="relation">
+					<div class="custom-control custom-radio custom-control-inline">
+						<input type="radio" id="character_parents" name="relation" value="character_parents" class="custom-control-input" checked>
+						<label class="custom-control-label" for="character_parents">Parents</label>
+					</div>
+
+					<div class="custom-control custom-radio custom-control-inline">
+						<input type="radio" id="character_children" name="relation" value="character_children" class="custom-control-input">
+						<label class="custom-control-label" for="character_children">Children</label>
+					</div>
+
+					<div class="custom-control custom-radio custom-control-inline">
+						<input type="radio" id="character_siblings" name="relation" value="character_siblings" class="custom-control-input">
+						<label class="custom-control-label" for="character_siblings">Siblings</label>
+					</div>
+
+					<div class="custom-control custom-radio custom-control-inline">
+						<input type="radio" id="married_engaged" name="relation" value="married_engaged" class="custom-control-input">
+						<label class="custom-control-label" for="married_engaged">Married or Engaged (somehow)</label>
+					</div>
+
+					<div class="custom-control custom-radio custom-control-inline">
+						<input type="radio" id="killed_by" name="relation" value="killed_by" class="custom-control-input">
+						<label class="custom-control-label" for="killed_by">Killed By</label>
+					</div>
+
+					<div class="custom-control custom-radio custom-control-inline">
+						<input type="radio" id="killed" name="relation" value="killed" class="custom-control-input">
+						<label class="custom-control-label" for="killed">Killed</label>
+					</div>
+
+					<div class="custom-control custom-radio custom-control-inline">
+						<input type="radio" id="protectors" name="relation" value="protectors" class="custom-control-input">
+						<label class="custom-control-label" for="protectors">Protected By</label>
+					</div>
+
+					<div class="custom-control custom-radio custom-control-inline">
+						<input type="radio" id="allies" name="relation" value="allies" class="custom-control-input">
+						<label class="custom-control-label" for="allies">Allies</label>
+					</div>
+
+					<div class="custom-control custom-radio custom-control-inline">
+						<input type="radio" id="serves" name="relation" value="serves" class="custom-control-input">
+						<label class="custom-control-label" for="serves">Serving</label>
+					</div>
+
+					<div class="custom-control custom-radio custom-control-inline">
+						<input type="radio" id="sex" name="relation" value="sex" class="custom-control-input">
+						<label class="custom-control-label" for="sex">Sexual Relationships</label>
+					</div>
+
+					<div class="custom-control custom-radio custom-control-inline">
+						<input type="radio" id="weapons" name="relation" value="weapons" class="custom-control-input">
+						<label class="custom-control-label" for="weapons">Weapons</label>
+					</div>
+				</form>
+			</div>
+			<div id="graph_1" class="center"></div>
+		</div>
+
+		<h2 class="got-scripture" id="part-timeline" style="padding-top: 8px;">Timeline</h2>
+			<hr>
+			<p class="lead">
+			  In this graph we will follow our beloved characters on their journey arround Westeros and Essos. We follow each one of them during the TV Show seasons and determine their location, either is it The Wall, The North, Kingslanding or other various places.
+			</p>
+		</div>
+		<div id="graph_3">
+			<div id="myPlot"></div>
+		</div>
+	</br></br>
+	<div class="container">
+		<h2 class="got-scripture" id="part-book" style="padding-top: 8px;">Books' Words Importance</h2>
+			<hr>
+			<p class="lead">
+			  Have you ever wandered what are the most common words in each book of A Song Of Ice And Fire, where each chapter represents a character point of view ? This graph answers this question by plotting a words cloud that change dynamically when we select a character or a book volume.
+			</p>
+	</div>
+		<div class="container">
+		<div id="graph_4">
+			<div id="treemap">
+		  </div>
+
+		  <div id="cloud">
+		  </div>
+
+		  <div id="cloudImg">
+		    <img class="mask_image" src="img/shape_3_bis.png">
+		  </div>
+		</div>
+		</div>
+
+	
+	<script src="https://cdn.jsdelivr.net/lodash/4.17.4/lodash.min.js"></script>
+	<script src="http://code.jquery.com/jquery-latest.js"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+	<script src="http://d3js.org/d3.v3.min.js"></script>
+	<script>
+		d3_v3 = d3;
+		window.d3 =null;
+	</script>
+
+	<script src="https://d3js.org/d3.v4.min.js"></script>
+	<script src='./js/d3/echarts-simple.js'></script>
+	<script src='./js/d3/echarts-wordcloud.js'></script>
+	<script type="text/javascript" src="./js/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript" src="./js/dtree.js"></script>
+	<script type="text/javascript" src="./js/graph.js"></script>
+	<script type="text/javascript" src="./js/ice_fire.js"></script>
+	<script src="//unpkg.com/timelines-chart"></script>
+	<script type="text/javascript" src="./js/timelinegraph.js"></script>
+</body>
+</html>

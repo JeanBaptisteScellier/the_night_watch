@@ -1,0 +1,426 @@
+@import "https://fonts.googleapis.com/css?family=Open+Sans:300,400";
+
+@font-face {
+  font-family: "GOTFont";
+  src: url("../fonts/GOT.ttf");
+}
+
+.got-scripture {
+  font-family: "GOTFont";
+}
+
+body {
+    font: 11px sans-serif;
+}
+
+#graph_1 {
+      margin-left: auto;
+      margin-right: auto;
+			clear: none;
+		}
+#graph_1 .nodeg {
+			font: 9px sans-serif;
+		}
+
+#graph_1 .nodeg:hover {
+	font-size: 10px;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+#graph_1 .clicked {
+	font-size: 10px !important;
+	font-weight: bold !important;
+}
+
+#graph_1 .relation-options input:hover {
+	cursor: pointer;
+}
+
+#graph_1 .linkg {
+	stroke: #00d8d6;
+  	stroke-opacity: 0.4;
+  	fill: none;
+
+}
+#graph_1 .link-grey {
+	stroke: #d2dae2;
+}
+
+#graph_1 .link-selected {
+	stroke: #ff3f34;
+	stroke-opacity:1;
+	stroke-width: 2;
+}
+
+.custom-radio{
+  cursor: pointer;
+}
+
+
+#graph_2 .linage {
+    fill: none;
+    stroke: #ffbe44;
+    stroke-dasharray: 4, 1;
+}
+
+#graph_2 .marriage {
+    fill: none;
+    stroke: #ffbe44;
+}
+
+#graph_2 {
+  text-align:center;
+}
+
+#graph_2 .menu {
+  display: table;
+  font-family: fantasy;
+  border-radius: 8px;
+  background-color: #7488B3;
+  box-sizing: border-box;
+  padding: 1px;
+  overflow: hidden;
+  color: white;
+}
+
+#graph_2 .man {
+  display: table;
+  font-family: fantasy;
+  border-radius: 8px;
+  background-color: #7488B3;
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  padding: 1px;
+  overflow: hidden;
+  color: white;
+}
+
+#graph_2 .man:hover {
+  position: fixed;
+  z-index:555555 !important;
+}
+
+#graph_2 .woman {
+  display: table;
+  font-family: fantasy;
+	border-radius: 8px;
+	background-color: #CA5C5C;
+	box-sizing: border-box;
+	width: 100%;
+  height: 100%;
+  padding: 1px;
+  overflow: hidden;
+  color: white;
+}
+
+#graph_2 .woman:hover {
+  position: fixed;
+  z-index:555555 !important;
+}
+
+
+#graph_2 .nodeText {
+  vertical-align: middle;
+}
+
+#graph_2 p {
+	padding:0;
+	margin:0;
+}
+
+
+#graph_2 .firstinfo {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: row;
+	z-index: 2;
+
+}
+
+#graph_2 .firstinfo img {
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  margin-top: 6px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+#graph_2 .firstinfo .profileinfo {
+  padding: 0px 5px;
+}
+
+#graph_2 .firstinfo .profileinfo h1 {
+  font-size: 1.8em;
+  margin-top:5px;
+  margin-bottom: 2px;
+  white-space: nowrap;
+}
+
+#graph_2 .firstinfo .profileinfo p.bio {
+  margin: 0;
+  padding: 1px 0px;
+  color: #D3D3D3;
+  line-height: 1.2;
+  font-style: initial;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+#menu .wrap{
+  position:relative;
+  width:80vmin; height:80vmin;
+  margin:0 auto;
+  background:inherit;
+  transform:scale(0.2) translatez(0px);
+  opacity:0;
+  transition:transform .5s, opacity .5s;
+}
+#menu a{
+  position:absolute;
+  left:0; top:0;
+  width:27.5%; height:27.5%;
+  overflow:hidden;
+  transform:scale(.5) translateZ(0px);
+  background:#585247;
+}
+#menu a div{
+  height:100%;
+  background-size:cover;
+  opacity:.5;
+  transition:opacity .5s;
+  border-radius:inherit;
+}
+#menu a:nth-child(1){
+  border-radius:40vmin 40vmin 40vmin 40vmin;
+  top:-15.5%; left:30%;
+  transform-origin: 110% 110%;
+  transition:transform .4s .025s;
+}
+#menu a:nth-child(1) div{
+  background-image:url('../img/family_logos/1.png');
+}
+#menu a:nth-child(2){
+  border-radius:40vmin 40vmin 40vmin 40vmin;
+  left:72.5%;
+  transform-origin: -10% 110%;
+  transition:transform .4s .05s;
+}
+#menu a:nth-child(2) div{
+  background-image:url('../img/family_logos/2.png');
+}
+#menu a:nth-child(3){
+  border-radius:40vmin 40vmin 40vmin 40vmin;
+  top:30%; left:73%;
+  transform-origin: 110% 110%;
+  transition:transform .4s .075s;
+}
+#menu a:nth-child(3) div{
+  background-image:url('../img/family_logos/3.png');
+}
+#menu a:nth-child(4){
+  border-radius:40vmin 40vmin 40vmin 40vmin;
+  top:72.5%; left:72.5%;
+  transform-origin: -10% -10%;
+  transition:transform .4s .1s;
+}
+#menu a:nth-child(4) div{
+  background-image: url('../img/family_logos/4.png');
+}
+#menu a:nth-child(5){
+  border-radius:40vmin 40vmin 40vmin 40vmin;
+  top:70%; left:30%;
+  transform-origin: 110% 110%;
+  transition:transform .4s .125s;
+}
+#menu a:nth-child(5) div{
+  background-image:url('../img/family_logos/5.png');
+}
+#menu a:nth-child(6){
+  border-radius:40vmin 40vmin 40vmin 40vmin;
+  top:72.5%;
+  transform-origin: 110% -10%;
+  transition:transform .4s .15s;
+}
+#menu a:nth-child(6) div{
+  background-image:url('../img/family_logos/6.png');
+}
+#menu a:nth-child(7){
+  border-radius:40vmin 40vmin 40vmin 40vmin;
+  top:30%; left:-15.5%;
+  transform-origin: 110% 110%;
+  transition:transform .4s .175s;
+}
+#menu a:nth-child(7) div{
+  background-image:url('../img/family_logos/7.png');
+}
+#menu a:nth-child(8){
+  border-radius:40vmin 40vmin 40vmin 40vmin;
+  transform-origin: 110% 110%;
+  transition:transform .4s .2s;
+}
+#menu a:nth-child(8) div{
+  background-image:url('../img/family_logos/8.png');
+}
+#menu a:nth-child(9){
+  width:55%;height:55%;
+  left:22.5%; top:22.5%;
+  border-radius:50vmin;
+  transform:scale(1);
+}
+#menu a:nth-child(9) div{
+  background-image: url('../img/family_logos/main.png');
+}
+
+#menu span {
+
+}
+
+#menu img{
+  position: relative;
+  display:block;
+  margin:0 auto;
+  top:45vmin;
+  width:10vmin; height:10vmin;
+  border-radius:100%;
+  transform:translateZ(0px);
+}
+#menu .wrap:hover{
+  transform:scale(.8) translateZ(0px);
+  opacity:1;
+}
+#menu img:hover + .wrap a, .wrap:hover a{
+  transform:scale(1) translatez(0px);
+}
+#menu a:hover div{
+  opacity:1;
+  transform:translatez(0px);
+}
+
+#graph_4 {
+  position: relative;
+}
+#graph_4 #chart {
+  width: 960px;
+  height: 500px;
+  background: #bbb;
+}
+
+#graph_4 #treemap {
+position: relative;
+width: 720px;
+z-index: 2;
+}
+
+#graph_4 #cloud {
+position: relative;
+width:870px;
+height: 650px;
+left: 347px;
+top : -488px;
+z-index: 1;
+
+}
+
+#graph_4 #cloudImg {
+position: absolute;
+width: 100%;
+height: 100%;
+left: 0px;
+top : 0px;
+z-index: 0;
+opacity: 0.2;
+background-color: transparent;
+}
+
+#graph_4 #background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -1;
+}
+
+#graph_4 .page_cover {
+  position: fixed;
+  top: 0;
+  left: 0;
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
+}
+
+#graph_4 .mask_image {
+  position: absolute;
+  top: 0.5%;
+  left: 46%;
+  max-width: 50%;
+  max-height: 50%;
+}
+
+#graph_4 text {
+  pointer-events: none;
+  fill: #f0f0f0;
+  font-family: fantasy;
+}
+#graph_4 .textdiv {
+  /*text-shadow: 1px 1px white;*/
+  color: #7f8c8d;
+  font-family: fantasy;
+}
+#graph_4 .grandparent text {
+  font-weight: bold;
+}
+
+#graph_4 .dataset text {
+  font-weight: bold;
+}
+
+#graph_4 rect {
+  fill: #f0f0f0;
+  opacity: 0.5;
+  stroke: #fff;
+  cursor: pointer;
+}
+
+#graph_4 rect.parent, #graph_4 .grandparent rect {
+  stroke-width: 3px;
+}
+
+#graph_4 .grandparent rect {
+  fill: orange;
+}
+
+#graph_4 .dataset rect {
+  fill: black;
+  opacity: 0.5;
+}
+
+#graph_4 .grandparent:hover rect {
+  fill: #ee9700;
+}
+
+#graph_4 .children rect.parent, #graph_4 .grandparent rect {
+  cursor: pointer;
+}
+
+#graph_4 rect.parent {
+  pointer-events: all;
+}
+
+#graph_4 .children rect.child {
+  fill: #ffffff;
+}
+
+#graph_4 .children:hover rect.child {
+  fill: #ceb9b9;
+  transition-duration: 1s;
+}
+
+#graph_4 rect:hover {
+  fill: #ceb9b9;
+  transition-duration: 1s;
+}

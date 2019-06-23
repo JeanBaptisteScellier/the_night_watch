@@ -1,0 +1,6113 @@
+[
+  {
+    "name": "Aegon Targaryen",
+    "character_id": "c1",
+    "house": "Targaryen",
+    "royal": true,
+    "character_parents": [
+      "Elia Martell",
+      "Rhaegar Targaryen"
+    ],
+    "character_children": [],
+    "character_siblings": [
+      "Rhaenys Targaryen",
+      "Jon Snow"
+    ],
+    "married_engaged": [],
+    "killed_by": [
+      "Gregor Clegane"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Aeron Greyjoy",
+    "character_id": "ch0540081",
+    "house": "Greyjoy",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [
+      "Balon Greyjoy",
+      "Euron Greyjoy"
+    ],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "Damphair",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Aerys II Targaryen",
+    "character_id": "ch0541362",
+    "house": "Targaryen",
+    "royal": true,
+    "character_parents": [],
+    "character_children": [
+      "Daenerys Targaryen",
+      "Rhaegar Targaryen",
+      "Viserys Targaryen"
+    ],
+    "character_siblings": [
+      "Rhaella Targaryen"
+    ],
+    "married_engaged": [
+      "Rhaella Targaryen"
+    ],
+    "killed_by": [
+      "Jaime Lannister"
+    ],
+    "killed": [
+      "Brandon Stark",
+      "Rickard Stark"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "The Mad King",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Akho",
+    "character_id": "ch0544520",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Daario Naharis"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Alliser Thorne",
+    "character_id": "ch0246938",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Jon Snow"
+    ],
+    "killed": [
+      "Jon Snow"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Alton Lannister",
+    "character_id": "ch0305012",
+    "house": "Lannister",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Jaime Lannister"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Alys Karstark",
+    "character_id": "ch0576836",
+    "house": "Karstark",
+    "royal": false,
+    "character_parents": [
+      "Harald Karstark"
+    ],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Amory Lorch",
+    "character_id": "ch0305002",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Jaqen H'ghar"
+    ],
+    "killed": [
+      "Yoren"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Anguy",
+    "character_id": "ch0316930",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Archmaester Marwyn",
+    "character_id": "ch0578265",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Areo Hotah",
+    "character_id": "ch0507107",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Tyene Sand"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [
+      "Doran Martell"
+    ],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Armeca",
+    "character_id": "ch0305014",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Arthur",
+    "character_id": "ch0305326",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Arthur Dayne",
+    "character_id": "ch0540097",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Howland Reed",
+      "Eddard Stark"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [
+      "Aerys II Targaryen"
+    ],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": [
+      "Dawn"
+    ]
+  },
+  {
+    "name": "Arya Stark",
+    "character_id": "ch0158604",
+    "house": "Stark",
+    "royal": false,
+    "character_parents": [
+      "Eddard Stark",
+      "Catelyn Stark"
+    ],
+    "character_children": [],
+    "character_siblings": [
+      "Robb Stark",
+      "Sansa Stark",
+      "Bran Stark",
+      "Rickon Stark"
+    ],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [
+      "Red Keep Stableboy",
+      "Polliver",
+      "Rorge",
+      "Meryn Trant",
+      "The Waif",
+      "Black Walder Rivers",
+      "Lothar Frey",
+      "Walder Frey",
+      "Petyr Baelish",
+      "The Night King",
+      "White Walker",
+      "Viserion"
+    ],
+    "protectors": [
+      "Nymeria"
+    ],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [
+      "Gendry"
+    ],
+    "weapons": [
+      "Dragonglass Staff",
+      "Dragonglass Dagger",
+      "Valyrian Steel Dagger",
+      "Needle"
+    ]
+  },
+  {
+    "name": "Baby Sam",
+    "character_id": "ch0547881",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [
+      "Samwell Tarly",
+      "Gilly"
+    ],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Balon Greyjoy",
+    "character_id": "ch0292152",
+    "house": "Greyjoy",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [
+      "Yara Greyjoy",
+      "Theon Greyjoy"
+    ],
+    "character_siblings": [
+      "Euron Greyjoy",
+      "Aeron Greyjoy"
+    ],
+    "married_engaged": [],
+    "killed_by": [
+      "Euron Greyjoy"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Barristan Selmy",
+    "character_id": "ch0241346",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [
+      "Daenerys Targaryen"
+    ],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Benjen Stark",
+    "character_id": "ch0153996",
+    "house": "Stark",
+    "royal": false,
+    "character_parents": [
+      "Rickard Stark"
+    ],
+    "character_children": [],
+    "character_siblings": [
+      "Brandon Stark",
+      "Lyanna Stark",
+      "Eddard Stark"
+    ],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Beric Dondarrion",
+    "character_id": "ch0305320",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Sandor Clegane"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Bianca",
+    "character_id": "ch0541364",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Biter",
+    "character_id": "ch0305028",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Sandor Clegane"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Black Lorren",
+    "character_id": "ch0266524",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Black Walder Rivers",
+    "character_id": "ch0014591",
+    "house": "Frey",
+    "royal": false,
+    "character_parents": [
+      "Walder Frey"
+    ],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Arya Stark"
+    ],
+    "killed": [
+      "Catelyn Stark"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Bowen Marsh",
+    "character_id": "ch0305036",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Jon Snow"
+    ],
+    "killed": [
+      "Jon Snow"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Brandon Stark",
+    "character_id": "c28",
+    "house": "Stark",
+    "royal": false,
+    "character_parents": [
+      "Rickard Stark"
+    ],
+    "character_children": [],
+    "character_siblings": [
+      "Lyanna Stark",
+      "Benjen Stark",
+      "Eddard Stark"
+    ],
+    "married_engaged": [],
+    "killed_by": [
+      "Aerys II Targaryen"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Bran Stark",
+    "character_id": "ch0234897",
+    "house": "Stark",
+    "royal": true,
+    "character_parents": [
+      "Eddard Stark",
+      "Catelyn Stark"
+    ],
+    "character_children": [],
+    "character_siblings": [
+      "Robb Stark",
+      "Sansa Stark",
+      "Arya Stark",
+      "Rickon Stark"
+    ],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [
+      "Summer"
+    ],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": [
+      "Dragonglass",
+      "Valyrian Steel Dagger"
+    ]
+  },
+  {
+    "name": "Brienne of Tarth",
+    "character_id": "ch0254503",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [
+      "Stannis Baratheon"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [
+      "Renly Baratheon",
+      "Catelyn Stark",
+      "Sansa Stark",
+      "Bran Stark"
+    ],
+    "nickname": "",
+    "gender": "F",
+    "sex": [
+      "Jaime Lannister"
+    ],
+    "weapons": [
+      "Valyrian Steel Dagger",
+      "Oathkeeper"
+    ]
+  },
+  {
+    "name": "Bronn",
+    "character_id": "ch0241345",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [
+      "Lollys Stokeworth"
+    ],
+    "killed_by": [],
+    "killed": [
+      "Vardis Egen",
+      "Matthos Seaworth"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [
+      "Marei"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Brother Ray",
+    "character_id": "ch0541878",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Lem Lemoncloak"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Brynden Tully",
+    "character_id": "ch0381563",
+    "house": "Tully",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [
+      "Hoster Tully"
+    ],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "Blackfish",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Catelyn Stark",
+    "character_id": "ch0145135",
+    "house": "Tully",
+    "royal": false,
+    "character_parents": [
+      "Hoster Tully"
+    ],
+    "character_children": [
+      "Robb Stark",
+      "Sansa Stark",
+      "Arya Stark",
+      "Bran Stark",
+      "Rickon Stark"
+    ],
+    "character_siblings": [
+      "Lysa Arryn",
+      "Edmure Tully"
+    ],
+    "married_engaged": [
+      "Eddard Stark",
+      "Brandon Stark"
+    ],
+    "killed_by": [
+      "Black Walder Rivers"
+    ],
+    "killed": [
+      "Joyeuse Erenford"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Catspaw Assassin",
+    "character_id": "ch0305046",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Summer"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": [
+      "Valyrian Steel Dagger"
+    ]
+  },
+  {
+    "name": "Cersei Lannister",
+    "character_id": "ch0159526",
+    "house": "Lannister",
+    "royal": true,
+    "character_parents": [
+      "Tywin Lannister"
+    ],
+    "character_children": [
+      "Joffrey Baratheon",
+      "Myrcella Baratheon",
+      "Tommen Baratheon"
+    ],
+    "character_siblings": [
+      "Jaime Lannister",
+      "Tyrion Lannister"
+    ],
+    "married_engaged": [
+      "Robert Baratheon"
+    ],
+    "killed_by": [],
+    "killed": [
+      "Lancel Lannister",
+      "High Sparrow",
+      "Loras Tyrell",
+      "Mace Tyrell",
+      "Margaery Tyrell",
+      "Kevan Lannister",
+      "Tyene Sand"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [
+      "Jaime Lannister",
+      "Lancel Lannister",
+      "Euron Greyjoy"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Craster",
+    "character_id": "ch0300218",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Karl Tanner"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": [
+      "Longclaw"
+    ]
+  },
+  {
+    "name": "Daario Naharis",
+    "character_id": "ch0335040",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [
+      "Mero",
+      "Prendahl na Ghezn",
+      "Mossador",
+      "Akho"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [
+      "Daenerys Targaryen"
+    ],
+    "nickname": "",
+    "gender": "M",
+    "sex": [
+      "Daenerys Targaryen"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Daenerys Targaryen",
+    "character_id": "ch0158597",
+    "house": "Targaryen",
+    "royal": true,
+    "character_parents": [
+      "Aerys II Targaryen",
+      "Rhaella Targaryen"
+    ],
+    "character_children": [
+      "Rhaego"
+    ],
+    "character_siblings": [
+      "Rhaegar Targaryen",
+      "Viserys Targaryen"
+    ],
+    "married_engaged": [
+      "Khal Drogo"
+    ],
+    "killed_by": [
+      "Jon Snow"
+    ],
+    "killed": [
+      "Khal Drogo",
+      "Mirri Maz Duur",
+      "Doreah",
+      "Xaro Xhoan Daxos",
+      "Khal Rhalko",
+      "Khal Moro",
+      "Randyll Tarly",
+      "Dickon Tarly",
+      "Lord Varys"
+    ],
+    "protectors": [
+      "Drogon",
+      "Rhaegal",
+      "Viserion"
+    ],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [
+      "Jon Snow",
+      "Daario Naharis",
+      "Khal Drogo"
+    ],
+    "weapons": [
+      "Dragonglass Sword"
+    ]
+  },
+  {
+    "name": "Daisy",
+    "character_id": "ch0305015",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [
+      "Ros",
+      "Grand Maester Pycelle"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Davos Seaworth",
+    "character_id": "ch0255396",
+    "house": "Seaworth",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [
+      "Matthos Seaworth"
+    ],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [
+      "Stannis Baratheon",
+      "Jon Snow"
+    ],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": [
+      "Longclaw"
+    ]
+  },
+  {
+    "name": "Dickon Tarly",
+    "character_id": "ch0541363",
+    "house": "Tarly",
+    "royal": false,
+    "character_parents": [
+      "Randyll Tarly",
+      "Melessa Tarly"
+    ],
+    "character_children": [],
+    "character_siblings": [
+      "Samwell Tarly",
+      "Talla Tarly"
+    ],
+    "married_engaged": [],
+    "killed_by": [
+      "Daenerys Targaryen"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Dontos Hollard",
+    "character_id": "ch0305031",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Petyr Baelish"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Doran Martell",
+    "character_id": "ch0468006",
+    "house": "Martell",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [
+      "Trystane Martell"
+    ],
+    "character_siblings": [
+      "Elia Martell",
+      "Oberyn Martell"
+    ],
+    "married_engaged": [],
+    "killed_by": [
+      "Ellaria Sand"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Doreah",
+    "character_id": "ch0248504",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Daenerys Targaryen"
+    ],
+    "killed": [
+      "Irri"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [
+      "Viserys Targaryen",
+      "Xaro Xhoan Daxos"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Drennan",
+    "character_id": "ch0305030",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Osha"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Drogon",
+    "character_id": "c57",
+    "house": "Targaryen",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [
+      "Rhaegal",
+      "Viserion"
+    ],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [
+      "Pyat Pree",
+      "Kraznys mo Nakloz"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "D",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Eddard Stark",
+    "character_id": "ch0154681",
+    "house": "Stark",
+    "royal": false,
+    "character_parents": [
+      "Rickard Stark"
+    ],
+    "character_children": [
+      "Robb Stark",
+      "Sansa Stark",
+      "Arya Stark",
+      "Bran Stark",
+      "Rickon Stark"
+    ],
+    "character_siblings": [
+      "Brandon Stark",
+      "Benjen Stark",
+      "Lyanna Stark"
+    ],
+    "married_engaged": [
+      "Catelyn Stark"
+    ],
+    "killed_by": [
+      "Ilyn Payne"
+    ],
+    "killed": [
+      "Arthur Dayne",
+      "Will",
+      "Lady",
+      "Gerold Hightower"
+    ],
+    "protectors": [
+      "Jon Arryn"
+    ],
+    "allies": [
+      "Howland Reed",
+      "Robert Baratheon"
+    ],
+    "serves": [],
+    "nickname": "Ned",
+    "gender": "M",
+    "sex": [],
+    "weapons": [
+      "Valyrian Steel Dagger",
+      "Ice"
+    ]
+  },
+  {
+    "name": "Eddison Tollett",
+    "character_id": "ch0305008",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": [
+      "Dragonglass",
+      "Longclaw"
+    ]
+  },
+  {
+    "name": "Edmure Tully",
+    "character_id": "ch0316931",
+    "house": "Tully",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [
+      "Catelyn Stark",
+      "Lysa Arryn"
+    ],
+    "married_engaged": [
+      "Roslin Frey"
+    ],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Ellaria Sand",
+    "character_id": "ch0309687",
+    "house": "Martell",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [
+      "Tyene Sand"
+    ],
+    "character_siblings": [],
+    "married_engaged": [
+      "Oberyn Martell"
+    ],
+    "killed_by": [],
+    "killed": [
+      "Myrcella Baratheon",
+      "Doran Martell"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [
+      "Oberyn Martell",
+      "Olyvar",
+      "Marei"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Elia Martell",
+    "character_id": "c63",
+    "house": "Martell",
+    "royal": true,
+    "character_parents": [],
+    "character_children": [
+      "Rhaenys Targaryen",
+      "Aegon Targaryen"
+    ],
+    "character_siblings": [
+      "Doran Martell",
+      "Oberyn Martell"
+    ],
+    "married_engaged": [
+      "Rhaegar Targaryen"
+    ],
+    "killed_by": [
+      "Gregor Clegane"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Euron Greyjoy",
+    "character_id": "ch0518715",
+    "house": "Greyjoy",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [
+      "Balon Greyjoy",
+      "Aeron Greyjoy"
+    ],
+    "married_engaged": [],
+    "killed_by": [
+      "Jaime Lannister"
+    ],
+    "killed": [
+      "Balon Greyjoy",
+      "Obara Sand",
+      "Nymeria Sand",
+      "Rhaegal"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [
+      "Cersei Lannister"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Gatins",
+    "character_id": "ch0523969",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Sandor Clegane"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Gendry",
+    "character_id": "ch0300040",
+    "house": "Baratheon",
+    "royal": false,
+    "character_parents": [
+      "Robert Baratheon"
+    ],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [
+      "Arya Stark",
+      "Melisandre"
+    ],
+    "weapons": [
+      "Dragonglass Axe",
+      "Dragonglass Staff"
+    ]
+  },
+  {
+    "name": "Gerold Hightower",
+    "character_id": "ch0540530",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Eddard Stark"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": [
+      "Vigilance"
+    ]
+  },
+  {
+    "name": "Ghost",
+    "character_id": "c72",
+    "house": "Stark",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [
+      "Grey Wind",
+      "Lady",
+      "Nymeria",
+      "Summer",
+      "Shaggydog"
+    ],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [
+      "Rast"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Gilly",
+    "character_id": "ch0306819",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [
+      "Craster"
+    ],
+    "character_children": [
+      "Baby Sam"
+    ],
+    "character_siblings": [],
+    "married_engaged": [
+      "Samwell Tarly"
+    ],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [
+      "Samwell Tarly"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Grand Maester Pycelle",
+    "character_id": "ch0232836",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [
+      "Ros",
+      "Daisy",
+      "Marei"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Greatjon Umber",
+    "character_id": "ch0305010",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [
+      "Smalljon Umber"
+    ],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Gregor Clegane",
+    "character_id": "ch0245401",
+    "house": "Clegane",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Sandor Clegane"
+    ],
+    "killed": [
+      "Elia Martell",
+      "Rhaenys Targaryen",
+      "Aegon Targaryen",
+      "Hugh of the Vale",
+      "Oberyn Martell",
+      "Missandei",
+      "Qyburn"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [
+      "Tywin Lannister",
+      "Cersei Lannister"
+    ],
+    "nickname": "The Mountain",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Grenn",
+    "character_id": "ch0251496",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Mag the Mighty"
+    ],
+    "killed": [
+      "Mag the Mighty"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": [
+      "Dragonglass"
+    ]
+  },
+  {
+    "name": "Grey Wind",
+    "character_id": "c90",
+    "house": "Stark",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [
+      "Lady",
+      "Nymeria",
+      "Summer",
+      "Shaggydog",
+      "Ghost"
+    ],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Grey Worm",
+    "character_id": "ch0335038",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [
+      "Razdal mo Eraz",
+      "Harry Strickland"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [
+      "Daenerys Targaryen"
+    ],
+    "nickname": "",
+    "gender": "M",
+    "sex": [
+      "Missandei"
+    ],
+    "weapons": [
+      "Widow's Wail"
+    ]
+  },
+  {
+    "name": "Hallyne",
+    "character_id": "ch0259178",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": [
+      "Wildfire"
+    ]
+  },
+  {
+    "name": "Harald Karstark",
+    "character_id": "ch0542917",
+    "house": "Karstark",
+    "royal": false,
+    "character_parents": [
+      "Rickard Karstark"
+    ],
+    "character_children": [
+      "Alys Karstark"
+    ],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Harry Strickland",
+    "character_id": "c96",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Grey Worm"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "High Sparrow",
+    "character_id": "ch0476559",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Cersei Lannister"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Hodor",
+    "character_id": "ch0238584",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [
+      "Locke"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": [
+      "Dragonglass"
+    ]
+  },
+  {
+    "name": "Hoster Tully",
+    "character_id": "ch0540082",
+    "house": "Tully",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Howland Reed",
+    "character_id": "ch0543132",
+    "house": "Reed",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [
+      "Jojen Reed",
+      "Meera Reed"
+    ],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [
+      "Arthur Dayne"
+    ],
+    "protectors": [],
+    "allies": [
+      "Eddard Stark"
+    ],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Hugh of the Vale",
+    "character_id": "ch0305026",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Gregor Clegane"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Ilyn Payne",
+    "character_id": "ch0246254",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [
+      "Eddard Stark"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": [
+      "Ice"
+    ]
+  },
+  {
+    "name": "Irri",
+    "character_id": "ch0249444",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Doreah"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Jacks",
+    "character_id": "ch0305034",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Jaime Lannister",
+    "character_id": "ch0158527",
+    "house": "Lannister",
+    "royal": false,
+    "character_parents": [
+      "Tywin Lannister"
+    ],
+    "character_children": [
+      "Joffrey Baratheon",
+      "Myrcella Baratheon",
+      "Tommen Baratheon"
+    ],
+    "character_siblings": [
+      "Cersei Lannister",
+      "Tyrion Lannister"
+    ],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [
+      "Aerys II Targaryen",
+      "Jory Cassel",
+      "Alton Lannister",
+      "Olenna Tyrell",
+      "Euron Greyjoy"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "The Kingslayer",
+    "gender": "M",
+    "sex": [
+      "Brienne of Tarth",
+      "Cersei Lannister"
+    ],
+    "weapons": [
+      "Widow's Wail",
+      "Oathkeeper"
+    ]
+  },
+  {
+    "name": "Janos Slynt",
+    "character_id": "ch0300651",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Jon Snow"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Jaqen H'ghar",
+    "character_id": "ch0259179",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [
+      "The Tickler",
+      "Amory Lorch"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Jeor Mormont",
+    "character_id": "ch0251492",
+    "house": "Mormont",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [
+      "Jorah Mormont"
+    ],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Rast"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": [
+      "Longclaw"
+    ]
+  },
+  {
+    "name": "Joffrey Baratheon",
+    "character_id": "ch0156278",
+    "house": "Baratheon",
+    "royal": true,
+    "character_parents": [
+      "Robert Baratheon",
+      "Cersei Lannister",
+      "Jaime Lannister"
+    ],
+    "character_children": [],
+    "character_siblings": [
+      "Myrcella Baratheon",
+      "Tommen Baratheon"
+    ],
+    "married_engaged": [
+      "Sansa Stark",
+      "Margaery Tyrell"
+    ],
+    "killed_by": [
+      "Petyr Baelish",
+      "Olenna Tyrell"
+    ],
+    "killed": [
+      "Ros"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": [
+      "Lion's Tooth",
+      "Widow's Wail",
+      "Hearteater"
+    ]
+  },
+  {
+    "name": "Jojen Reed",
+    "character_id": "ch0316921",
+    "house": "Reed",
+    "royal": false,
+    "character_parents": [
+      "Howland Reed"
+    ],
+    "character_children": [],
+    "character_siblings": [
+      "Meera Reed"
+    ],
+    "married_engaged": [],
+    "killed_by": [
+      "Meera Reed"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": [
+      "Dragonglass"
+    ]
+  },
+  {
+    "name": "Jon Arryn",
+    "character_id": "ch0251737",
+    "house": "Arryn",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Lysa Arryn"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [
+      "Robert Baratheon"
+    ],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Jon Snow",
+    "character_id": "ch0155777",
+    "house": "Stark",
+    "royal": true,
+    "character_parents": [
+      "Rhaegar Targaryen",
+      "Lyanna Stark"
+    ],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [
+      "Ygritte"
+    ],
+    "killed_by": [
+      "Alliser Thorne",
+      "Othell Yarwyck",
+      "Bowen Marsh",
+      "Olly"
+    ],
+    "killed": [
+      "Othor",
+      "Qhorin Halfhand",
+      "Orell",
+      "Karl Tanner",
+      "Styr",
+      "Mance Rayder",
+      "Janos Slynt",
+      "White Walker",
+      "Alliser Thorne",
+      "Othell Yarwyck",
+      "Bowen Marsh",
+      "Olly",
+      "Lyanna Stark",
+      "Daenerys Targaryen"
+    ],
+    "protectors": [
+      "Eddard Stark",
+      "Ghost"
+    ],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [
+      "Ygritte",
+      "Daenerys Targaryen"
+    ],
+    "weapons": [
+      "Dragonglass",
+      "Longclaw",
+      "Needle"
+    ]
+  },
+  {
+    "name": "Jorah Mormont",
+    "character_id": "ch0158221",
+    "house": "Mormont",
+    "royal": false,
+    "character_parents": [
+      "Jeor Mormont"
+    ],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [
+      "Qotho"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [
+      "Daenerys Targaryen"
+    ],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": [
+      "Heartsbane",
+      "Dragonglass",
+      "Longclaw"
+    ]
+  },
+  {
+    "name": "Jory Cassel",
+    "character_id": "ch0245400",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Jaime Lannister"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [
+      "Eddard Stark"
+    ],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Joyeuse Erenford",
+    "character_id": "ch0304494",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [
+      "Walder Frey"
+    ],
+    "killed_by": [
+      "Catelyn Stark"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Karl Tanner",
+    "character_id": "ch0396528",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Jon Snow"
+    ],
+    "killed": [
+      "Craster"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Karsi",
+    "character_id": "ch0512707",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": [
+      "Dragonglass"
+    ]
+  },
+  {
+    "name": "Kayla",
+    "character_id": "ch0431526",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Kevan Lannister",
+    "character_id": "ch0305013",
+    "house": "Lannister",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [
+      "Lancel Lannister",
+      "Martyn Lannister",
+      "Willem Lannister"
+    ],
+    "character_siblings": [
+      "Tywin Lannister"
+    ],
+    "married_engaged": [],
+    "killed_by": [
+      "Cersei Lannister"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Khal Drogo",
+    "character_id": "ch0171388",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [
+      "Rhaego"
+    ],
+    "character_siblings": [],
+    "married_engaged": [
+      "Daenerys Targaryen"
+    ],
+    "killed_by": [
+      "Daenerys Targaryen"
+    ],
+    "killed": [
+      "Viserys Targaryen",
+      "Mago"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [
+      "Daenerys Targaryen"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Khal Moro",
+    "character_id": "ch0538748",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Daenerys Targaryen"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Khal Rhalko",
+    "character_id": "ch0535371",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Daenerys Targaryen"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Kitty Frey",
+    "character_id": "ch0576869",
+    "house": "Frey",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [
+      "Walder Frey"
+    ],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Kovarro",
+    "character_id": "ch0304969",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Kraznys mo Nakloz",
+    "character_id": "ch0339503",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Drogon"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Lady",
+    "character_id": "c150",
+    "house": "Stark",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [
+      "Grey Wind",
+      "Nymeria",
+      "Summer",
+      "Shaggydog",
+      "Ghost"
+    ],
+    "married_engaged": [],
+    "killed_by": [
+      "Eddard Stark"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Lady Crane",
+    "character_id": "ch0541190",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "The Waif"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Lancel Lannister",
+    "character_id": "ch0376927",
+    "house": "Lannister",
+    "royal": false,
+    "character_parents": [
+      "Kevan Lannister"
+    ],
+    "character_children": [],
+    "character_siblings": [
+      "Martyn Lannister",
+      "Willem Lannister"
+    ],
+    "married_engaged": [],
+    "killed_by": [
+      "Cersei Lannister"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [
+      "Cersei Lannister"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Lem Lemoncloak",
+    "character_id": "ch0542106",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Sandor Clegane"
+    ],
+    "killed": [
+      "Brother Ray"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Lhara",
+    "character_id": "ch0476558",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Loboda",
+    "character_id": "ch0511931",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "White Walker"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Locke",
+    "character_id": "ch0045904",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Hodor"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Lollys Stokeworth",
+    "character_id": "ch0511247",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [
+      "Bronn"
+    ],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Lommy Greenhands",
+    "character_id": "ch0257030",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Polliver"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Loras Tyrell",
+    "character_id": "ch0231428",
+    "house": "Tyrell",
+    "royal": false,
+    "character_parents": [
+      "Mace Tyrell"
+    ],
+    "character_children": [],
+    "character_siblings": [
+      "Margaery Tyrell"
+    ],
+    "married_engaged": [],
+    "killed_by": [
+      "Cersei Lannister"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [
+      "Olyvar",
+      "Renly Baratheon"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Lord Varys",
+    "character_id": "ch0249636",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Daenerys Targaryen"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": [
+      "Valyrian Steel Dagger"
+    ]
+  },
+  {
+    "name": "Lothar Frey",
+    "character_id": "ch0384471",
+    "house": "Frey",
+    "royal": false,
+    "character_parents": [
+      "Walder Frey"
+    ],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Arya Stark"
+    ],
+    "killed": [
+      "Talisa Maegyr"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Lyanna Mormont",
+    "character_id": "ch0541884",
+    "house": "Mormont",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Wun Wun"
+    ],
+    "killed": [
+      "Wun Wun"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Lyanna Stark",
+    "character_id": "ch0543804",
+    "house": "Stark",
+    "royal": false,
+    "character_parents": [
+      "Rickard Stark"
+    ],
+    "character_children": [
+      "Jon Snow"
+    ],
+    "character_siblings": [
+      "Brandon Stark",
+      "Benjen Stark",
+      "Eddard Stark"
+    ],
+    "married_engaged": [
+      "Robert Baratheon",
+      "Rhaegar Targaryen"
+    ],
+    "killed_by": [
+      "Jon Snow"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Lysa Arryn",
+    "character_id": "ch0251736",
+    "house": "Tully",
+    "royal": false,
+    "character_parents": [
+      "Hoster Tully"
+    ],
+    "character_children": [],
+    "character_siblings": [
+      "Edmure Tully"
+    ],
+    "married_engaged": [
+      "Petyr Baelish"
+    ],
+    "killed_by": [
+      "Petyr Baelish"
+    ],
+    "killed": [
+      "Jon Arryn"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [
+      "Petyr Baelish"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Mace Tyrell",
+    "character_id": "ch0384328",
+    "house": "Tyrell",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [
+      "Margaery Tyrell",
+      "Loras Tyrell"
+    ],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Cersei Lannister"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Maester Aemon",
+    "character_id": "ch0246936",
+    "house": "Targaryen",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Maester Cressen",
+    "character_id": "ch0255280",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Maester Cressen"
+    ],
+    "killed": [
+      "Maester Cressen"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Maester Luwin",
+    "character_id": "ch0171393",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Osha"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Mag the Mighty",
+    "character_id": "ch0510933",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Grenn"
+    ],
+    "killed": [
+      "Grenn"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Mago",
+    "character_id": "ch0379227",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Khal Drogo"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Mance Rayder",
+    "character_id": "ch0335039",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Melisandre",
+      "Jon Snow"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Mandon Moore",
+    "character_id": "ch0306220",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Podrick Payne"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Marei",
+    "character_id": "ch0431527",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [
+      "Ellaria Sand",
+      "Bronn",
+      "Olyvar",
+      "Grand Maester Pycelle",
+      "Oberyn Martell"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Margaery Tyrell",
+    "character_id": "ch0251974",
+    "house": "Tyrell",
+    "royal": false,
+    "character_parents": [
+      "Mace Tyrell"
+    ],
+    "character_children": [],
+    "character_siblings": [
+      "Loras Tyrell"
+    ],
+    "married_engaged": [
+      "Renly Baratheon",
+      "Joffrey Baratheon",
+      "Tommen Baratheon"
+    ],
+    "killed_by": [
+      "Cersei Lannister"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [
+      "Tommen Baratheon"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Martyn Lannister",
+    "character_id": "ch0395355",
+    "house": "Lannister",
+    "royal": false,
+    "character_parents": [
+      "Kevan Lannister"
+    ],
+    "character_children": [],
+    "character_siblings": [
+      "Lancel Lannister",
+      "Willem Lannister"
+    ],
+    "married_engaged": [],
+    "killed_by": [
+      "Rickard Karstark"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Matthos Seaworth",
+    "character_id": "ch0305029",
+    "house": "Seaworth",
+    "royal": false,
+    "character_parents": [
+      "Davos Seaworth"
+    ],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Bronn"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Meera Reed",
+    "character_id": "ch0316928",
+    "house": "Reed",
+    "royal": false,
+    "character_parents": [
+      "Howland Reed"
+    ],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [
+      "Jojen Reed",
+      "White Walker"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": [
+      "Dragonglass"
+    ]
+  },
+  {
+    "name": "Melessa Tarly",
+    "character_id": "ch0541191",
+    "house": "Tarly",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [
+      "Dickon Tarly",
+      "Samwell Tarly",
+      "Talla Tarly"
+    ],
+    "character_siblings": [],
+    "married_engaged": [
+      "Randyll Tarly"
+    ],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Melisandre",
+    "character_id": "ch0287523",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [
+      "Renly Baratheon",
+      "Mance Rayder",
+      "Shireen Baratheon"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [
+      "Gendry",
+      "Stannis Baratheon"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Mero",
+    "character_id": "ch0123670",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Daario Naharis"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Meryn Trant",
+    "character_id": "ch0246933",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Arya Stark"
+    ],
+    "killed": [
+      "Syrio Forel"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Mirri Maz Duur",
+    "character_id": "ch0305011",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Daenerys Targaryen"
+    ],
+    "killed": [
+      "Rhaego"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Missandei",
+    "character_id": "ch0316923",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Gregor Clegane"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [
+      "Daenerys Targaryen"
+    ],
+    "nickname": "",
+    "gender": "F",
+    "sex": [
+      "Grey Worm"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Mord",
+    "character_id": "ch0229099",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Mossador",
+    "character_id": "ch0508053",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Daario Naharis"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Mycah",
+    "character_id": "ch0305045",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Sandor Clegane"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Myranda",
+    "character_id": "ch0316926",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Theon Greyjoy"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [
+      "Ramsay Snow"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Myrcella Baratheon",
+    "character_id": "ch0238585",
+    "house": "Baratheon",
+    "royal": true,
+    "character_parents": [
+      "Robert Baratheon",
+      "Cersei Lannister",
+      "Jaime Lannister"
+    ],
+    "character_children": [],
+    "character_siblings": [
+      "Joffrey Baratheon",
+      "Tommen Baratheon"
+    ],
+    "married_engaged": [
+      "Trystane Martell"
+    ],
+    "killed_by": [
+      "Ellaria Sand"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Ned Umber",
+    "character_id": "tt0944947",
+    "house": "Umber",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "The Night King"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Nymeria",
+    "character_id": "c242",
+    "house": "Stark",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [
+      "Grey Wind",
+      "Lady",
+      "Summer",
+      "Shaggydog",
+      "Ghost"
+    ],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Nymeria Sand",
+    "character_id": "ch0468074",
+    "house": "Martell",
+    "royal": false,
+    "character_parents": [
+      "Oberyn Martell"
+    ],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Euron Greyjoy"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Obara Sand",
+    "character_id": "ch0468001",
+    "house": "Martell",
+    "royal": false,
+    "character_parents": [
+      "Oberyn Martell"
+    ],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Euron Greyjoy"
+    ],
+    "killed": [
+      "Trystane Martell"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Oberyn Martell",
+    "character_id": "ch0392307",
+    "house": "Martell",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [
+      "Obara Sand",
+      "Nymeria Sand",
+      "Tyene Sand"
+    ],
+    "character_siblings": [
+      "Doran Martell",
+      "Elia Martell"
+    ],
+    "married_engaged": [
+      "Ellaria Sand"
+    ],
+    "killed_by": [
+      "Gregor Clegane"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [
+      "Ellaria Sand",
+      "Marei",
+      "Olyvar"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Olenna Tyrell",
+    "character_id": "ch0010188",
+    "house": "Tyrell",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [
+      "Mace Tyrell"
+    ],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Jaime Lannister"
+    ],
+    "killed": [
+      "Joffrey Baratheon"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Olly",
+    "character_id": "ch0508055",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Jon Snow"
+    ],
+    "killed": [
+      "Ygritte",
+      "Jon Snow"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Olyvar",
+    "character_id": "ch0403194",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [
+      "Loras Tyrell",
+      "Oberyn Martell",
+      "Ellaria Sand",
+      "Marei"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Orell",
+    "character_id": "ch0316922",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Jon Snow"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Ornela",
+    "character_id": "ch0540537",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Osha",
+    "character_id": "ch0295802",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Ramsay Snow"
+    ],
+    "killed": [
+      "Drennan",
+      "Maester Luwin"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [
+      "Theon Greyjoy"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Othell Yarwyck",
+    "character_id": "ch0305003",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Jon Snow"
+    ],
+    "killed": [
+      "Jon Snow"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Othor",
+    "character_id": "c255",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "White Walker",
+      "Jon Snow"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Petyr Baelish",
+    "character_id": "ch0245982",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [
+      "Lysa Arryn"
+    ],
+    "killed_by": [
+      "Arya Stark"
+    ],
+    "killed": [
+      "Joffrey Baratheon",
+      "Dontos Hollard",
+      "Lysa Arryn"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "Littlefinger",
+    "gender": "M",
+    "sex": [
+      "Lysa Arryn"
+    ],
+    "weapons": [
+      "Valyrian Steel Dagger"
+    ]
+  },
+  {
+    "name": "Podrick Payne",
+    "character_id": "ch0306046",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [
+      "Mandon Moore"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [
+      "Tyrion Lannister",
+      "Brienne of Tarth",
+      "Bran Stark"
+    ],
+    "nickname": "",
+    "gender": "M",
+    "sex": [
+      "Kayla",
+      "Marei"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Polliver",
+    "character_id": "ch0305023",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Arya Stark"
+    ],
+    "killed": [
+      "Lommy Greenhands"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": [
+      "Needle"
+    ]
+  },
+  {
+    "name": "Prendahl na Ghezn",
+    "character_id": "ch0339504",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Daario Naharis"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Pyat Pree",
+    "character_id": "ch0303952",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Drogon",
+      "Viserion",
+      "Rhaegal"
+    ],
+    "killed": [
+      "Spice King",
+      "Silk King"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Pypar",
+    "character_id": "ch0273477",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Ygritte"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Qhono",
+    "character_id": "ch0540066",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": [
+      "Longclaw"
+    ]
+  },
+  {
+    "name": "Qhorin Halfhand",
+    "character_id": "ch0303951",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Jon Snow"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Qotho",
+    "character_id": "ch0246162",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Jorah Mormont"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Quaithe",
+    "character_id": "ch0305022",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Qyburn",
+    "character_id": "ch0316929",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Gregor Clegane"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [
+      "Cersei Lannister"
+    ],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Rakharo",
+    "character_id": "ch0251495",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Ramsay Snow",
+    "character_id": "ch0321004",
+    "house": "Bolton",
+    "royal": false,
+    "character_parents": [
+      "Roose Bolton"
+    ],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [
+      "Sansa Stark"
+    ],
+    "killed_by": [],
+    "killed": [
+      "Roose Bolton",
+      "Osha",
+      "Rickon Stark",
+      "Wun Wun"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [
+      "Sansa Stark",
+      "Myranda"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Randyll Tarly",
+    "character_id": "ch0524408",
+    "house": "Tarly",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [
+      "Dickon Tarly",
+      "Samwell Tarly",
+      "Talla Tarly"
+    ],
+    "character_siblings": [],
+    "married_engaged": [
+      "Melessa Tarly"
+    ],
+    "killed_by": [
+      "Daenerys Targaryen"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Rast",
+    "character_id": "ch0251498",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Ghost"
+    ],
+    "killed": [
+      "Jeor Mormont"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Rattleshirt",
+    "character_id": "ch0305888",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Tormund Giantsbane"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "Lord of Bones",
+    "gender": "M",
+    "sex": [],
+    "weapons": [
+      "Longclaw"
+    ]
+  },
+  {
+    "name": "Razdal mo Eraz",
+    "character_id": "ch0413591",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Grey Worm"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Red Keep Stableboy",
+    "character_id": "ch0379229",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Arya Stark"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Renly Baratheon",
+    "character_id": "ch0246253",
+    "house": "Baratheon",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [
+      "Robert Baratheon",
+      "Stannis Baratheon"
+    ],
+    "married_engaged": [
+      "Margaery Tyrell"
+    ],
+    "killed_by": [
+      "Melisandre"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [
+      "Loras Tyrell"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Rhaegal",
+    "character_id": "c278",
+    "house": "Targaryen",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [
+      "Drogon",
+      "Viserion"
+    ],
+    "married_engaged": [],
+    "killed_by": [
+      "Euron Greyjoy"
+    ],
+    "killed": [
+      "Pyat Pree"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "D",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Rhaegar Targaryen",
+    "character_id": "c279",
+    "house": "Targaryen",
+    "royal": true,
+    "character_parents": [
+      "Rhaella Targaryen",
+      "Aerys II Targaryen"
+    ],
+    "character_children": [
+      "Jon Snow",
+      "Rhaenys Targaryen",
+      "Aegon Targaryen"
+    ],
+    "character_siblings": [
+      "Daenerys Targaryen",
+      "Viserys Targaryen"
+    ],
+    "married_engaged": [
+      "Elia Martell",
+      "Lyanna Stark"
+    ],
+    "killed_by": [
+      "Robert Baratheon"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Rhaego",
+    "character_id": "c280",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [
+      "Khal Drogo",
+      "Daenerys Targaryen"
+    ],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Mirri Maz Duur"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Rhaella Targaryen",
+    "character_id": "c281",
+    "house": "Targaryen",
+    "royal": true,
+    "character_parents": [],
+    "character_children": [
+      "Daenerys Targaryen",
+      "Rhaegar Targaryen",
+      "Viserys Targaryen"
+    ],
+    "character_siblings": [
+      "Aerys II Targaryen"
+    ],
+    "married_engaged": [
+      "Aerys II Targaryen"
+    ],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Rhaenys Targaryen",
+    "character_id": "c282",
+    "house": "Targaryen",
+    "royal": true,
+    "character_parents": [
+      "Elia Martell",
+      "Rhaegar Targaryen"
+    ],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Gregor Clegane"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Rickard Karstark",
+    "character_id": "ch0305331",
+    "house": "Karstark",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [
+      "Harald Karstark"
+    ],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Robb Stark"
+    ],
+    "killed": [
+      "Martyn Lannister",
+      "Willem Lannister"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Rickard Stark",
+    "character_id": "c284",
+    "house": "Stark",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [
+      "Brandon Stark",
+      "Benjen Stark",
+      "Eddard Stark",
+      "Lyanna Stark"
+    ],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Aerys II Targaryen"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Rickon Stark",
+    "character_id": "ch0233141",
+    "house": "Stark",
+    "royal": false,
+    "character_parents": [
+      "Eddard Stark",
+      "Catelyn Stark"
+    ],
+    "character_children": [],
+    "character_siblings": [
+      "Robb Stark",
+      "Sansa Stark",
+      "Arya Stark",
+      "Bran Stark"
+    ],
+    "married_engaged": [],
+    "killed_by": [
+      "Ramsay Snow"
+    ],
+    "killed": [],
+    "protectors": [
+      "Shaggydog"
+    ],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Robb Stark",
+    "character_id": "ch0158596",
+    "house": "Stark",
+    "royal": true,
+    "character_parents": [
+      "Eddard Stark",
+      "Catelyn Stark"
+    ],
+    "character_children": [],
+    "character_siblings": [
+      "Sansa Stark",
+      "Arya Stark",
+      "Bran Stark",
+      "Rickon Stark"
+    ],
+    "married_engaged": [
+      "Roslin Frey",
+      "Talisa Maegyr"
+    ],
+    "killed_by": [
+      "Roose Bolton"
+    ],
+    "killed": [
+      "Wallen",
+      "Rickard Karstark"
+    ],
+    "protectors": [
+      "Grey Wind"
+    ],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [
+      "Talisa Maegyr"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Robert Baratheon",
+    "character_id": "ch0155776",
+    "house": "Baratheon",
+    "royal": true,
+    "character_parents": [],
+    "character_children": [
+      "Joffrey Baratheon",
+      "Myrcella Baratheon",
+      "Tommen Baratheon"
+    ],
+    "character_siblings": [
+      "Stannis Baratheon",
+      "Renly Baratheon"
+    ],
+    "married_engaged": [
+      "Lyanna Stark",
+      "Cersei Lannister"
+    ],
+    "killed_by": [],
+    "killed": [
+      "Rhaegar Targaryen"
+    ],
+    "protectors": [
+      "Jon Arryn"
+    ],
+    "allies": [
+      "Jon Arryn",
+      "Eddard Stark",
+      "Tywin Lannister"
+    ],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Robin Arryn",
+    "character_id": "ch0300949",
+    "house": "Arryn",
+    "royal": false,
+    "character_parents": [
+      "Jon Arryn",
+      "Lysa Arryn"
+    ],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Rodrik Cassel",
+    "character_id": "ch0171391",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Theon Greyjoy"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [
+      "Eddard Stark"
+    ],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": [
+      "Valyrian Steel Dagger"
+    ]
+  },
+  {
+    "name": "Roose Bolton",
+    "character_id": "ch0305006",
+    "house": "Bolton",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [
+      "Ramsay Snow"
+    ],
+    "character_siblings": [],
+    "married_engaged": [
+      "Walda Bolton"
+    ],
+    "killed_by": [
+      "Ramsay Snow"
+    ],
+    "killed": [
+      "Robb Stark"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Rorge",
+    "character_id": "ch0305019",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Arya Stark"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Ros",
+    "character_id": "ch0010187",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Joffrey Baratheon"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [
+      "Armeca",
+      "Grand Maester Pycelle",
+      "Daisy",
+      "Theon Greyjoy"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Roslin Frey",
+    "character_id": "ch0391563",
+    "house": "Frey",
+    "royal": false,
+    "character_parents": [
+      "Walder Frey"
+    ],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [
+      "Robb Stark",
+      "Edmure Tully"
+    ],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Ryger Rivers",
+    "character_id": "ch0014591",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [
+      "Walder Frey"
+    ],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Salladhor Saan",
+    "character_id": "ch0381104",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Samwell Tarly",
+    "character_id": "ch0244961",
+    "house": "Tarly",
+    "royal": false,
+    "character_parents": [
+      "Randyll Tarly",
+      "Melessa Tarly"
+    ],
+    "character_children": [
+      "Baby Sam"
+    ],
+    "character_siblings": [
+      "Dickon Tarly",
+      "Talla Tarly"
+    ],
+    "married_engaged": [
+      "Gilly"
+    ],
+    "killed_by": [],
+    "killed": [
+      "White Walker",
+      "Thenn Warg"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [
+      "Gilly"
+    ],
+    "weapons": [
+      "Heartsbane",
+      "Dragonglass",
+      "Longclaw",
+      "Dragonglass Dagger"
+    ]
+  },
+  {
+    "name": "Sandor Clegane",
+    "character_id": "ch0162882",
+    "house": "Clegane",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [
+      "Gregor Clegane"
+    ],
+    "married_engaged": [],
+    "killed_by": [
+      "Sandor Clegane"
+    ],
+    "killed": [
+      "Mycah",
+      "Beric Dondarrion",
+      "Biter",
+      "Gatins",
+      "Lem Lemoncloak",
+      "Gregor Clegane",
+      "Sandor Clegane"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "The Hound",
+    "gender": "M",
+    "sex": [],
+    "weapons": [
+      "Dragonglass Axe",
+      "Dragonglass"
+    ]
+  },
+  {
+    "name": "Sansa Stark",
+    "character_id": "ch0158137",
+    "house": "Stark",
+    "royal": true,
+    "character_parents": [
+      "Eddard Stark",
+      "Catelyn Stark"
+    ],
+    "character_children": [],
+    "character_siblings": [
+      "Robb Stark",
+      "Arya Stark",
+      "Bran Stark",
+      "Rickon Stark"
+    ],
+    "married_engaged": [
+      "Joffrey Baratheon",
+      "Tyrion Lannister",
+      "Ramsay Snow"
+    ],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [
+      "Lady"
+    ],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [
+      "Ramsay Snow"
+    ],
+    "weapons": [
+      "Valyrian Steel Dagger",
+      "Dragonglass Dagger"
+    ]
+  },
+  {
+    "name": "Selyse Baratheon",
+    "character_id": "ch0316924",
+    "house": "Baratheon",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [
+      "Shireen Baratheon"
+    ],
+    "character_siblings": [],
+    "married_engaged": [
+      "Stannis Baratheon"
+    ],
+    "killed_by": [
+      "Selyse Baratheon"
+    ],
+    "killed": [
+      "Selyse Baratheon"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Ser Endrew Tarth",
+    "character_id": "ch0540153",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Shae",
+    "character_id": "ch0250564",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Tyrion Lannister"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [
+      "Tyrion Lannister"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Shagga",
+    "character_id": "ch0305021",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Shaggydog",
+    "character_id": "c311",
+    "house": "Stark",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [
+      "Grey Wind",
+      "Lady",
+      "Nymeria",
+      "Summer",
+      "Ghost"
+    ],
+    "married_engaged": [],
+    "killed_by": [
+      "Smalljon Umber"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Shireen Baratheon",
+    "character_id": "ch0306346",
+    "house": "Baratheon",
+    "royal": false,
+    "character_parents": [
+      "Stannis Baratheon",
+      "Selyse Baratheon"
+    ],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Melisandre"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Silk King",
+    "character_id": "ch0345051",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Pyat Pree"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Smalljon Umber",
+    "character_id": "ch0540067",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [
+      "Greatjon Umber"
+    ],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Tormund Giantsbane"
+    ],
+    "killed": [
+      "Shaggydog"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Spice King",
+    "character_id": "ch0305005",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Pyat Pree"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Stannis Baratheon",
+    "character_id": "ch0250897",
+    "house": "Baratheon",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [
+      "Shireen Baratheon"
+    ],
+    "character_siblings": [
+      "Robert Baratheon",
+      "Renly Baratheon"
+    ],
+    "married_engaged": [
+      "Selyse Baratheon"
+    ],
+    "killed_by": [
+      "Brienne of Tarth"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [
+      "Melisandre"
+    ],
+    "weapons": [
+      "Lightbringer"
+    ]
+  },
+  {
+    "name": "Stark Bannerman",
+    "character_id": "ch0517008",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Stiv",
+    "character_id": "ch0304972",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Theon Greyjoy"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Styr",
+    "character_id": "ch0400416",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Jon Snow"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Summer",
+    "character_id": "c326",
+    "house": "Stark",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [
+      "Grey Wind",
+      "Lady",
+      "Nymeria",
+      "Shaggydog",
+      "Ghost"
+    ],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [
+      "Catspaw Assassin"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Syrio Forel",
+    "character_id": "ch0246934",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Meryn Trant"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Talisa Maegyr",
+    "character_id": "ch0305007",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [
+      "Robb Stark"
+    ],
+    "killed_by": [
+      "Lothar Frey"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [
+      "Robb Stark"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Talla Tarly",
+    "character_id": "ch0523897",
+    "house": "Tarly",
+    "royal": false,
+    "character_parents": [
+      "Randyll Tarly",
+      "Melessa Tarly"
+    ],
+    "character_children": [],
+    "character_siblings": [
+      "Dickon Tarly",
+      "Samwell Tarly"
+    ],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "The Night King",
+    "character_id": "ch0512154",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Arya Stark"
+    ],
+    "killed": [
+      "Three-Eyed Raven",
+      "Viserion",
+      "Ned Umber",
+      "Theon Greyjoy"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "The Tickler",
+    "character_id": "ch0305033",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Jaqen H'ghar"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "The Waif",
+    "character_id": "ch0508054",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Arya Stark"
+    ],
+    "killed": [
+      "Lady Crane"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Thenn Warg",
+    "character_id": "ch0400416",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Samwell Tarly"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Theon Greyjoy",
+    "character_id": "ch0158526",
+    "house": "Greyjoy",
+    "royal": false,
+    "character_parents": [
+      "Balon Greyjoy"
+    ],
+    "character_children": [],
+    "character_siblings": [
+      "Yara Greyjoy"
+    ],
+    "married_engaged": [],
+    "killed_by": [
+      "The Night King"
+    ],
+    "killed": [
+      "Stiv",
+      "Rodrik Cassel",
+      "Myranda"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [
+      "Ros",
+      "Osha",
+      "Myranda"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Three-Eyed Raven",
+    "character_id": "ch0414457",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "The Night King"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Tommen Baratheon",
+    "character_id": "ch0256424",
+    "house": "Baratheon",
+    "royal": true,
+    "character_parents": [
+      "Robert Baratheon",
+      "Cersei Lannister",
+      "Jaime Lannister"
+    ],
+    "character_children": [],
+    "character_siblings": [
+      "Joffrey Baratheon",
+      "Myrcella Baratheon"
+    ],
+    "married_engaged": [
+      "Margaery Tyrell"
+    ],
+    "killed_by": [
+      "Tommen Baratheon"
+    ],
+    "killed": [
+      "Tommen Baratheon"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [
+      "Margaery Tyrell"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Tormund Giantsbane",
+    "character_id": "ch0316925",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [
+      "Rattleshirt",
+      "Smalljon Umber"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": [
+      "Dragonglass"
+    ]
+  },
+  {
+    "name": "Trystane Martell",
+    "character_id": "ch0506400",
+    "house": "Martell",
+    "royal": false,
+    "character_parents": [
+      "Doran Martell"
+    ],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [
+      "Myrcella Baratheon"
+    ],
+    "killed_by": [
+      "Obara Sand"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Tyene Sand",
+    "character_id": "ch0468075",
+    "house": "Martell",
+    "royal": false,
+    "character_parents": [
+      "Oberyn Martell",
+      "Ellaria Sand"
+    ],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Cersei Lannister"
+    ],
+    "killed": [
+      "Areo Hotah"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Tyrion Lannister",
+    "character_id": "ch0146096",
+    "house": "Lannister",
+    "royal": false,
+    "character_parents": [
+      "Tywin Lannister"
+    ],
+    "character_children": [],
+    "character_siblings": [
+      "Cersei Lannister",
+      "Jaime Lannister"
+    ],
+    "married_engaged": [
+      "Sansa Stark"
+    ],
+    "killed_by": [],
+    "killed": [
+      "Shae",
+      "Tywin Lannister"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [
+      "Daenerys Targaryen"
+    ],
+    "nickname": "",
+    "gender": "M",
+    "sex": [
+      "Shae"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Tywin Lannister",
+    "character_id": "ch0242185",
+    "house": "Lannister",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [
+      "Jaime Lannister",
+      "Cersei Lannister",
+      "Tyrion Lannister"
+    ],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Tyrion Lannister"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [
+      "Robert Baratheon"
+    ],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": [
+      "Widow's Wail",
+      "Ice"
+    ]
+  },
+  {
+    "name": "Vardis Egen",
+    "character_id": "ch0294458",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Bronn"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Viserion",
+    "character_id": "c354",
+    "house": "Targaryen",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [
+      "Drogon",
+      "Rhaegal"
+    ],
+    "married_engaged": [],
+    "killed_by": [
+      "The Night King",
+      "Arya Stark"
+    ],
+    "killed": [
+      "Pyat Pree"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "D",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Viserys Targaryen",
+    "character_id": "ch0155775",
+    "house": "Targaryen",
+    "royal": true,
+    "character_parents": [
+      "Rhaella Targaryen",
+      "Aerys II Targaryen"
+    ],
+    "character_children": [],
+    "character_siblings": [
+      "Daenerys Targaryen",
+      "Rhaegar Targaryen"
+    ],
+    "married_engaged": [],
+    "killed_by": [
+      "Khal Drogo"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [
+      "Doreah"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Walda Bolton",
+    "character_id": "ch0506401",
+    "house": "Frey",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [
+      "Roose Bolton"
+    ],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Walder Frey",
+    "character_id": "ch0305328",
+    "house": "Frey",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [
+      "Black Walder Rivers",
+      "Lothar Frey",
+      "Roslin Frey",
+      "Ryger Rivers"
+    ],
+    "character_siblings": [],
+    "married_engaged": [
+      "Joyeuse Erenford",
+      "Kitty Frey"
+    ],
+    "killed_by": [
+      "Arya Stark"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Wallen",
+    "character_id": "c358",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Robb Stark"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Waymar Royce",
+    "character_id": "ch0171390",
+    "house": "Royce",
+    "royal": false,
+    "character_parents": [
+      "Yohn Royce"
+    ],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "White Walker"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "White Walker",
+    "character_id": "ch0304921",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Jon Snow",
+      "Samwell Tarly"
+    ],
+    "killed": [
+      "Loboda"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Will",
+    "character_id": "ch0171394",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Eddard Stark"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Willem Lannister",
+    "character_id": "ch0395356",
+    "house": "Lannister",
+    "royal": false,
+    "character_parents": [
+      "Kevan Lannister"
+    ],
+    "character_children": [],
+    "character_siblings": [
+      "Lancel Lannister",
+      "Martyn Lannister"
+    ],
+    "married_engaged": [],
+    "killed_by": [
+      "Rickard Karstark"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Wun Wun",
+    "character_id": "ch0524621",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Ramsay Snow",
+      "Lyanna Mormont"
+    ],
+    "killed": [
+      "Lyanna Mormont"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": [
+      "Dragonglass"
+    ]
+  },
+  {
+    "name": "Xaro Xhoan Daxos",
+    "character_id": "ch0303950",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Daenerys Targaryen"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [
+      "Doreah"
+    ],
+    "weapons": []
+  },
+  {
+    "name": "Yara Greyjoy",
+    "character_id": "ch0300217",
+    "house": "Greyjoy",
+    "royal": false,
+    "character_parents": [
+      "Balon Greyjoy"
+    ],
+    "character_children": [],
+    "character_siblings": [
+      "Theon Greyjoy"
+    ],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Ygritte",
+    "character_id": "ch0304492",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [
+      "Jon Snow"
+    ],
+    "killed_by": [
+      "Olly"
+    ],
+    "killed": [
+      "Pypar"
+    ],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "F",
+    "sex": [
+      "Jon Snow"
+    ],
+    "weapons": [
+      "Longclaw"
+    ]
+  },
+  {
+    "name": "Yohn Royce",
+    "character_id": "ch0524546",
+    "house": "Royce",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [
+      "Waymar Royce"
+    ],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Yoren",
+    "character_id": "ch0251493",
+    "house": "NoHouse",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [
+      "Amory Lorch"
+    ],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "",
+    "gender": "M",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Ice",
+    "character_id": "c389",
+    "house": "Weapons",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "Ice",
+    "gender": "X",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Lion's Tooth",
+    "character_id": "c390",
+    "house": "Weapons",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "Lion's Tooth",
+    "gender": "X",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Needle",
+    "character_id": "c391",
+    "house": "Weapons",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "Needle",
+    "gender": "X",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Valyrian Steel Dagger",
+    "character_id": "c392",
+    "house": "Weapons",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "Valyrian Steel Dagger",
+    "gender": "X",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Longclaw",
+    "character_id": "c393",
+    "house": "Weapons",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "Longclaw",
+    "gender": "X",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Lightbringer",
+    "character_id": "c394",
+    "house": "Weapons",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "Lightbringer",
+    "gender": "X",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Wildfire",
+    "character_id": "c395",
+    "house": "Weapons",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "Wildfire",
+    "gender": "X",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Dragonglass",
+    "character_id": "c396",
+    "house": "Weapons",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "Dragonglass",
+    "gender": "X",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Hearteater",
+    "character_id": "c397",
+    "house": "Weapons",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "Hearteater",
+    "gender": "X",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Oathkeeper",
+    "character_id": "c398",
+    "house": "Weapons",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "Oathkeeper",
+    "gender": "X",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Widow's Wail",
+    "character_id": "c399",
+    "house": "Weapons",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "Widow's Wail",
+    "gender": "X",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Dawn",
+    "character_id": "c400",
+    "house": "Weapons",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "Dawn",
+    "gender": "X",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Vigilance",
+    "character_id": "c401",
+    "house": "Weapons",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "Vigilance",
+    "gender": "X",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Heartsbane",
+    "character_id": "c402",
+    "house": "Weapons",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "Heartsbane",
+    "gender": "X",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Dragonglass Axe",
+    "character_id": "c403",
+    "house": "Weapons",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "Dragonglass Axe",
+    "gender": "X",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Dragonglass Staff",
+    "character_id": "c404",
+    "house": "Weapons",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "Dragonglass Staff",
+    "gender": "X",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Dragonglass Dagger",
+    "character_id": "c405",
+    "house": "Weapons",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "Dragonglass Dagger",
+    "gender": "X",
+    "sex": [],
+    "weapons": []
+  },
+  {
+    "name": "Dragonglass Sword",
+    "character_id": "c406",
+    "house": "Weapons",
+    "royal": false,
+    "character_parents": [],
+    "character_children": [],
+    "character_siblings": [],
+    "married_engaged": [],
+    "killed_by": [],
+    "killed": [],
+    "protectors": [],
+    "allies": [],
+    "serves": [],
+    "nickname": "Dragonglass Sword",
+    "gender": "X",
+    "sex": [],
+    "weapons": []
+  }
+]
